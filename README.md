@@ -29,9 +29,9 @@ apt install python
 
 apt installl git
 
-git clone https://github.com/Genrev-Reyes/Lethal-Brute
+git clone https://github.com/Genrev-Reyes/Lethal-Brute-
 
-cd Lethal-Brute
+cd Lethal-Brute-
 
 pip3 install -r requirements.txt
 
